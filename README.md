@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ABA TECH<br>👯 I’m looking to collaborate on<br>🤝 I’m can for help with Angular, Nest and few C#<br>🌱 I’m currently learning infrastructure<br>💬 Ask me about stuff<br>⚡ Fun fact sport
+🔭 I’m currently working on ABA TECH<br>🤝 I’m can for help with Angular, Nest and few C#<br>🌱 I’m currently learning infrastructure<br>💬 Ask me about stuff<br>⚡ Fun fact sport
 
 
 ## 🌐 Socials:
